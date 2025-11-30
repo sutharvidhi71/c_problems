@@ -1,3 +1,6 @@
+
+//prime number check
+
 #include<stdio.h>
 #include<math.h>
 
