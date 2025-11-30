@@ -4,7 +4,7 @@ int main(){
  int days=1000;
  int years=days/360;
  int weeks=(days%360)/7;
- int rem_days=days%7;
+ int rem_days=((days%360)%7)%7;
  printf("years=%d\n",years);
  printf("weeks=%d\n",weeks);
  printf("days=%d\n",rem_days);
