@@ -1,3 +1,3 @@
 # c_problems
-<h2>this are c problem statements and  solutions.<h2><br>
-<P>    in short i will show case you how i am good at c language </p>
+<h2>c problem and solution<h2><br>
+<P> this codes are self written after leaning from chagpt and my professors.Its so much fun after learning something from professors and than try adding  some new tricky logics from chatgpt </p>
