@@ -12,3 +12,7 @@ int main() {
     printf("area=%d\n",area);
     return 0;
 }
+
+----------output---------
+perimeter=24
+area=35
