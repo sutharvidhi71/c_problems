@@ -16,3 +16,8 @@ int main()
  
  return 0;
 }
+
+-----------output------------
+years=2
+weeks=40
+days=0
