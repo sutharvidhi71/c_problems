@@ -1,3 +1,8 @@
+//this is my first program in which i did all code by 
+//self just by seeing output pettern 
+//smilles in petter are looking great!
+
+
 #include<stdio.h>
 int main(){
     int row;
@@ -20,3 +25,14 @@ int main(){
     }
     return 0;
 }
+
+
+
+---------output-------------
+enter the number of rows:-3
+:)
+:)      :)
+:)      :)      :)
+:)      :)      :)
+:)      :)
+:)
