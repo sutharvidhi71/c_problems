@@ -1,3 +1,5 @@
+//manipulating array using functions to double and square the elements based on user choice
+
 #include<stdio.h>
 #include<stdlib.h>
 void _double_arr(int *arr,int n)
@@ -53,3 +55,21 @@ default:
 free(arr);
     return 0;
 }
+
+-----------output-------------
+enter size of array:-
+5
+enter your chioise:-
+d
+enter 5 elements of array:-
+1
+2
+3
+4
+5
+after doubling the array elements are:-
+2
+4
+6
+8
+10
