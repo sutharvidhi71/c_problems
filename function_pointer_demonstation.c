@@ -20,7 +20,7 @@ void calculate(int (*op)(int,int),int a, int b){
 int main() {
 int a,b;
 char choise;
-int (*op)(int , int );
+// int (*op)(int , int ); //even its not commented it does not have any effect on result
 
 printf("enter two numbers:-");
 scanf("%d %d",&a,&b);

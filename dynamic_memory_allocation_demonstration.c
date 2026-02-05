@@ -23,15 +23,14 @@ int main(){
 
 int n;
 char choise;
-printf("enter size of array:-\n");
+printf("enter size of array:-\n");//to store size of array
 scanf(" %d",&n);
 
-int *arr=(int*)malloc(n*sizeof(int));
-
+int *arr=(int*)malloc(n*sizeof(int))//dynamic memory allocation for array of size n
 printf("enter your chioise:-\n");
 scanf(" %c",&choise);
 
-printf("enter %d elements of array:-\n",n);
+printf("enter %d elements of array:-\n",n);//to store elements of array
 for (int i=0;i<n;i++){
     scanf("%d",&arr[i]);
 }
@@ -52,7 +51,7 @@ default:
     free(arr);    
     break;
 }
-free(arr);
+free(arr);//to free the dynamically allocated memory
     return 0;
 }
 

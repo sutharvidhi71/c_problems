@@ -1,3 +1,4 @@
+//sum of two arrays
 #include<stdio.h>
 int main(){
         int arr1[5]={1,1,1,1,1};
