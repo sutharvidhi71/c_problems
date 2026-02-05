@@ -1,3 +1,4 @@
+//simple C program to print a right-angled triangle pattern using asterisks
 #include<stdio.h>
 int main(){
 int row;

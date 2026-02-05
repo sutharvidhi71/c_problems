@@ -8,7 +8,7 @@ int main(){
 
      printf("enter number:\n");
 
-     if(scanf("%d",&n)!=1)//cheks if input ids not invalid
+     if(scanf("%d",&n)!=1)//cheks if input is not invalid
      {
         printf("invelid input:\n");
         return 1;

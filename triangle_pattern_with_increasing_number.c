@@ -1,3 +1,4 @@
+//triangle pattern with increasing number
 #include<stdio.h>
 int main(){
 int n;
