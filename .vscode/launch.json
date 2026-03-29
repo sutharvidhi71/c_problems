@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sutha/OneDrive/Desktop/git demo/c_problems/preprocesor_macros_drives",
-      "program": "c:/Users/sutha/OneDrive/Desktop/git demo/c_problems/preprocesor_macros_drives/build/Debug/outDebug",
+      "cwd": "c:/Users/sutha/OneDrive/Desktop/git demo/c_problems/comand line argument",
+      "program": "c:/Users/sutha/OneDrive/Desktop/git demo/c_problems/comand line argument/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
